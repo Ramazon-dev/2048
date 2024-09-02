@@ -1,16 +1,31 @@
-# game_2048
+# 2048
 
-A new Flutter project.
+The game is purely made using Flutter's Animation System using AnimatedWidget and Explicit animations.
 
-## Getting Started
+The project is made in **Flutter 3.0** at the moment and is not related in anyway to the Flame Game Engine or the Game toolking the Flutter team released with version 3.0
 
-This project is a starting point for a Flutter application.
+![Running the game on Web, Android, iOS and MacOS](https://user-images.githubusercontent.com/9529847/172562297-78396f12-ab27-472a-91fa-2fd788a54edf.png)
 
-A few resources to get you started if this is your first Flutter project:
+# Running the Game
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+1. Get Packages
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```dart
+flutter pub get
+```
+
+2. Run Application
+
+```dart
+flutter run
+```
+
+3. Build Apk
+
+```dart
+flutter build apk
+```
+
+# Gameplay
+
+https://user-images.githubusercontent.com/9529847/171466396-528b6ac1-19da-4a0b-b8d0-5146871396eb.mp4
